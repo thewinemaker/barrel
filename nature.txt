@@ -2,3 +2,9 @@ Natural elements
 ----------------
 - soil
 - vines
+- climate
+
+Winery facilities
+-----------------
+- sorting machine
+- fermentation tanks
