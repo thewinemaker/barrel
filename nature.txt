@@ -3,6 +3,7 @@ Natural elements
 - soil
 - vines
 - climate
+- harvest
 
 Winery facilities
 -----------------
