@@ -8,3 +8,4 @@ Winery facilities
 -----------------
 - sorting machine
 - fermentation tanks
+- maturation barrels
